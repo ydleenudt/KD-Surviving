@@ -11,4 +11,4 @@ Articles in PDF version for distribution and read.
 ## Tools
 
 #### pic stroage
-![极简图床](http://yotuku.cn/)
+[极简图床](http://yotuku.cn/)
